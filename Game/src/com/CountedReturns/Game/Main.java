@@ -1,3 +1,15 @@
+/**
+ *  @author CountedReturns
+ *  Copyright (C) 2016 CountedReturns
+ *
+ *  This game is 100% free: you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation, either version 3 of the License, or any later version.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this game. If not, see <http://www.gnu.org/licenses/>.
+*/
+
 package com.CountedReturns.Game;
 
 import java.awt.Canvas;
